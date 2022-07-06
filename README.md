@@ -1,4 +1,5 @@
 # Is-the-road-safe-submission
+Single hidden layer neural network using just numpy
 
 /////////////RECRUITMENT TASK FOR SUMMER PROJECT 2022////////////////////
 Name: Rohan Ravi
